@@ -10,4 +10,4 @@ A batch file can
 - Clone batch file or pre-compiled EXE file to your PC
 - If you are using batch file you should run it as **Administrator** or 
     - Make a shortcut and right click on shortcut file then go to the shortcut tab and click on **Advanced** and check **Run As Administrator**
-- For EXE file Administrator manifest included before, So you dont need to do anything for **Administrator Privilege**
+- For EXE file Administrator manifest included before, So you wont need to do anything for **Administrator Privilege**
